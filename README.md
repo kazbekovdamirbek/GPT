@@ -46,3 +46,11 @@ app/src/main/java/com/foodlens
 │   └── onboarding
 └── ui/theme
 ```
+
+## Для тебя (очень простой пошаговый старт)
+Открой инструкцию: `docs/STEP_BY_STEP_FOR_YOU_RU.md`
+
+Быстрая проверка окружения:
+```bash
+./scripts/check_env.sh
+```
